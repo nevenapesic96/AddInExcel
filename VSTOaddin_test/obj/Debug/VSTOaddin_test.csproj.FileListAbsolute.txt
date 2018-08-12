@@ -1,0 +1,14 @@
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\bin\Debug\VSTOaddin_test.dll
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\bin\Debug\VSTOaddin_test.pdb
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\bin\Debug\VSTOaddin_test.dll.manifest
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\bin\Debug\VSTOaddin_test.vsto
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.Form1.resources
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.Properties.Resources.resources
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.Ribbon1.resources
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.taskPaneControl.resources
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.taskPaneControl2.resources
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.csproj.GenerateResource.Cache
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.dll
+C:\Users\NEVEN\Desktop\excelProba\VSTOaddin_test\VSTOaddin_test\obj\Debug\VSTOaddin_test.pdb

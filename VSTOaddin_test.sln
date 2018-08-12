@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTOaddin_test", "VSTOaddin_test\VSTOaddin_test.csproj", "{913F81E2-C035-44D0-919E-7DA1D17631DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913F81E2-C035-44D0-919E-7DA1D17631DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913F81E2-C035-44D0-919E-7DA1D17631DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913F81E2-C035-44D0-919E-7DA1D17631DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913F81E2-C035-44D0-919E-7DA1D17631DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
